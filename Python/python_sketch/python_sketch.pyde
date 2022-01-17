@@ -5,5 +5,5 @@ def draw():
     if  mousePressed:
         fill(0)
     else:
-        fill(255)
+        fill(255,125,22)
     ellipse(mouseX, mouseY, 80, 80)
